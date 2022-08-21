@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @animesh473
+- 👋 Hi, I’m Animesh.
 - 👀 I’m interested in Cloud technologies along with Machine leanring.
 - 🌱 I’m currently learning Machine learning and Deep leanring  along with cloud technologies.
 - 💞️ I’m looking to collaborate on infrastructure automations and Machine learning.

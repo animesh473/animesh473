@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Animesh.
 - 👀 I’m interested in Cloud technologies along with Machine learning.
-- 🌱 I’m currently learning cloud technologies.
-- 💞️ I’m looking to collaborate on infrastructure automations and Machine learning.
+- 🌱 I’m currently learning cloud technologies and Machine learning.
+- 💞️ I’m looking to collaborate on Open Source, infrastructure automations and Machine learning.
 - 📫 How to reach me https://www.animeshanand.in
 
 <!---
